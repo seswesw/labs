@@ -1,0 +1,24 @@
+апр. 19, 2026 7:42:32 PM example.BookDAO addBook
+INFO: Книга добавлена
+апр. 19, 2026 7:42:32 PM example.BookDAO getAllBooks
+INFO: Список книг получен
+апр. 19, 2026 7:44:03 PM example.BookDAO addBook
+INFO: Книга добавлена
+апр. 19, 2026 7:44:03 PM example.BookDAO getAllBooks
+INFO: Список книг получен
+апр. 19, 2026 7:45:46 PM example.BookDAO addBook
+INFO: Книга добавлена
+апр. 19, 2026 7:45:46 PM example.BookDAO getAllBooks
+INFO: Список книг получен
+апр. 19, 2026 7:49:49 PM example.BookDAO addBook
+INFO: Книга добавлена
+апр. 19, 2026 7:49:49 PM example.BookDAO getAllBooks
+INFO: Список книг получен
+апр. 19, 2026 7:56:38 PM example.BookDAO addBook
+INFO: Книга добавлена
+апр. 19, 2026 7:56:38 PM example.BookDAO getAllBooks
+INFO: Список книг получен
+апр. 19, 2026 8:00:04 PM example.BookDAO addBook
+INFO: Книга добавлена
+апр. 19, 2026 8:00:04 PM example.BookDAO getAllBooks
+INFO: Список книг получен
