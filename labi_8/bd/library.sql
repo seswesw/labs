@@ -1,0 +1,4 @@
+create DATABASE library;
+USE library; 
+CREATE TABLE books ( id INT AUTO_INCREMENT PRIMARY KEY, title VARCHAR(200) NOT NULL, author VARCHAR(200) NOT NULL, year INT ); 
+CREATE TABLE readers ( id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(200) NOT NULL, book_id INT, FOREIGN KEY (book_id) REFERENCES books(id) );
